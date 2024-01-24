@@ -1,10 +1,6 @@
-# NuxtJS pomodoro app :tomato:
+# NuxtJS web + mobile app :tomato:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d4e62a9f-c505-4c5a-8647-656c5f44716f/deploy-status)](https://app.netlify.com/sites/neketli-pomodoro/deploys)
-[![Github releases](https://img.shields.io/github/downloads/neketli/pomodoro-app-nuxt/total.svg)](https://github.com/neketli/pomodoro-app-nuxt/releases/tag/1.0.0)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-
-## Simple pomodoro app to focus and control your productivity :watch:
+## Simple app to focus and control your productivity :watch:
 
 App maded by nuxtjs, vuetify and capacitor.
 Implemented this for practice and test of capacitor.
